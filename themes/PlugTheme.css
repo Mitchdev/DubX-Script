@@ -538,7 +538,7 @@ ul.avatar-list li.downdub {
     color: #AA74FE !important;
 }
 .onErr .container .control .confirm {
-	background: #AA74FE;
+	background: #AA74FE !important;
 }
 .BSSControl .storeBSSClass,
 .RSSControl .storeRSSClass,
